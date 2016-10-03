@@ -1,0 +1,12 @@
+Uso:
+Devuelve 0 si un número de puerto válido se ha pasado a través de la línea de comandos.
+Banderas:
+    Rango válido Puerto 1 - 65535;
+    -p, --port [port#]
+    -p, --port -e [PORT]
+    -h, --help, -?
+    -!, --about
+    
+El estado de salida:
+    0 si está OK,
+    666 si la condición de error

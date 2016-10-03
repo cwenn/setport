@@ -1,0 +1,6 @@
+Escucha en el puerto 
+Error: demasiados argumentos
+Error: la variable de entorno no exist
+Error: número de puerto sólo puede ser un valor entero
+Error: número de puerto no está dentro del rango (1-65535)
+Error: El indicador no válido
